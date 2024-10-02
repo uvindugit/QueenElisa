@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==wb2IGeRRVQjdjQfRGUTRUVBJTcZplbCpmTNFWczZVc0Q1RFFFct0kSGtEMjEkYSh2Rr5kSpwd=96263530749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -18,16 +18,16 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  ALIVE_MEDIA: 'https://telegra.ph/file/f9167543ebea466be89d1.jpg',
+  MONGODB_URL: 'mongodb+srv://anjanagithub:5555555@cluster0.jy5ra.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
-  WORK_TYPE: 'public',
+  OWNER_NAME: '🍂🖤𝗞𝗜𝗡𝗚 𝗔𝗡𝗝𝗔𝗡𝗔 𝗕𝗕𝗛 💦🥵🍂',
+  OWNER_NUMBER: '94760105256',
+  SUDO: '94703536269',
+  WORK_TYPE: 'private',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
